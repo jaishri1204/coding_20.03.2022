@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">sample_1</string>
-    <string name="button">Button</string>
-    <string name="textview">TextView</string>
+    <string name="sign_in">Sign in</string>
 </resources>
